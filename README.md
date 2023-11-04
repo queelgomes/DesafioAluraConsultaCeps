@@ -1,6 +1,10 @@
-# Desafio Curso Java na Alura - Consulta De CEPS
+# Consulta De CEPS
 
-Desenvolvi esse programa consumindo a API publica ViaCep.
+- **Linguagem:** Java ☕️ 
+-  **Escola:** Alura 🖥️
+- **API Consumida:** Viacep 🛣️
+- **Considerações:** Foi muito gostoso desenvolver esse desafio final da formação em Java. Tive facilidade em consumir a API e aprendi muito enquanto desenvolvia. 🧡
 
-No programa é possivel consultar as informações do CEP, salvar e gerar um arquivo JSON.
+
+▷▷▷ No programa é possivel pesquisar por CEP, salvar a pesquisa e gerar um arquivo JSON com todos os endereços salvos. 
 
