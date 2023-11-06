@@ -2,11 +2,8 @@ package principal;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import modelo.Arquivo;
 import modelo.BuscadorEndereco;
-import modelo.Endereco;
 
-import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
